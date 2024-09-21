@@ -1,0 +1,13 @@
+#contenedor div{
+    padding: 12px;
+    width: 352px;
+    margin-top: 10px;
+}
+
+.card-body button{
+    width: 328px;
+}
+
+#imgtitulo{
+    width: 300px;
+}
